@@ -74,12 +74,12 @@ const songs = [{
     {
         id: "14",
         songName: `These Days<br><div class="subtitle">Sidhu</div>`,
-        poster: "img/Sidhu_img/14.jpg",
+        poster: "img/Sidhu_img/4.jpg",
     },
     {
         id: "15",
         songName: `US <br><div class="subtitle">Sidhu</div>`,
-        poster: "img/Sidhu_img/15.jpg",
+        poster: "img/Sidhu_img/1.jpg",
     },
 ]
 
