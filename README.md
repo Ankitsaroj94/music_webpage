@@ -22,7 +22,7 @@ This project serves as a demonstration of implementing key aspects of Spotify's 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Ankitsaroj94/music_webpage.git
+   [git clone https://github.com/Ankitsaroj94/music_webpage.git](https://github.com/Ankitsaroj94/music_webpage.git)
    ```
 
 2. Open the `index.html` file in your preferred web browser.
